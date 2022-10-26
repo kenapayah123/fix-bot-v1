@@ -60,7 +60,7 @@ global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2
 /*============== PAYMENT ==============*/
 global.pdana = '081807254833' //dana
 global.povo = '081807254833' //ovo
-global.pgopay = '081807254833 //gopay
+global.pgopay = '081807254833' //gopay
 global.plinkaja = '081807254833' //link aja
 global.ppulsa = '081807254833' //telkomsel
 global.ppulsa2 = '081807254833' // kalau ada kartu lain isi aja
